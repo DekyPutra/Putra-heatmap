@@ -5,19 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chrono Heatmap - Multi Timeframe Seasonality</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0f172a; color: #f8fafc; padding: 20px; }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #0f172a; 
+            color: #f8fafc; 
+            padding: 20px; 
+        }
         h1 { text-align: center; color: #38bdf8; margin-bottom: 5px; }
         p.subtitle { text-align: center; color: #94a3b8; font-size: 14px; margin-bottom: 25px; }
-        .info-card { background: #1e293b; padding: 15px; border-radius: 8px; text-align: center; margin-bottom: 20px; border: 1px solid #334155; }
-        table { width: 100%; max-width: 900px; margin: 0 auto; border-collapse: collapse; background: #1e293b; border-radius: 8px; overflow: hidden; }
-        th, td { padding: 12px 15px; text-align: center; border-bottom: 1px solid #334155; }
+        .info-card { 
+            background: #1e293b; 
+            padding: 15px; 
+            border-radius: 8px; 
+            text-align: center; 
+            margin-bottom: 20px; 
+            border: 1px solid #334155; 
+        }
+        table { 
+            width: 100%; 
+            max-width: 950px; 
+            margin: 0 auto; 
+            border-collapse: collapse; 
+            background: #1e293b; 
+            border-radius: 8px; 
+            overflow: hidden; 
+        }
+        th, td { padding: 10px 12px; text-align: center; border-bottom: 1px solid #334155; }
         th { background-color: #334155; color: #f1f5f9; font-size: 14px; }
         tr:hover { background-color: #334155/50; }
-        .up { color: #4ade80; font-weight: bold; }
-        .down { color: #f87171; font-weight: bold; }
-        .badge { padding: 3px 8px; border-radius: 4px; font-size: 12px; }
-        .badge-up { background: #14532d; color: #86efac; }
-        .badge-down { background: #7f1d1d; color: #fca5a5; }
+
+        /* Style dasar badge */
+        .badge { 
+            padding: 4px 10px; 
+            border-radius: 6px; 
+            font-size: 13px; 
+            font-weight: 600;
+            display: inline-block;
+        }
+
+        /* 1. 50% - 55.9%: Netral (Abu-abu / Putih Pucat) */
+        .neutral { background-color: #334155; color: #cbd5e1; }
+
+        /* 2. 56% - 60.9%: Terang / Muda */
+        .up-light { background-color: #14532d; color: #86efac; border: 1px solid #22c55e; }
+        .down-light { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #ef4444; }
+
+        /* 3. 61% - 65%: Normal */
+        .up-normal { background-color: #166534; color: #ffffff; }
+        .down-normal { background-color: #991b1b; color: #ffffff; }
+
+        /* 4. > 65%: Pekat / Bold (High Conviction) */
+        .up-dark { background-color: #22c55e; color: #052e16; font-weight: 800; box-shadow: 0 0 8px #22c55e88; }
+        .down-dark { background-color: #ef4444; color: #450a0a; font-weight: 800; box-shadow: 0 0 8px #ef444488; }
     </style>
 </head>
 <body>
@@ -25,7 +64,7 @@
     <h1>🔥 Chrono Heatmap (XAUUSD)</h1>
     <p class="subtitle">Analisis Probabilitas Intraday Seasonality Multi-Timeframe</p>
 
-    <div class="info-card" id="infoCard">Loading metadata...</div>
+    <div class="info-card" id="infoCard">Memuat data...</div>
 
     <table>
         <thead>
@@ -42,6 +81,22 @@
     </table>
 
     <script>
+        // Fungsi menentukan class warna berdasarkan persen & arah
+        function getBadgeClass(direction, prob) {
+            if (prob <= 55.9) return 'neutral';
+
+            if (direction === 'UP') {
+                if (prob >= 56.0 && prob <= 60.9) return 'up-light';
+                if (prob >= 61.0 && prob <= 65.0) return 'up-normal';
+                if (prob > 65.0) return 'up-dark';
+            } else if (direction === 'DOWN') {
+                if (prob >= 56.0 && prob <= 60.9) return 'down-light';
+                if (prob >= 61.0 && prob <= 65.0) return 'down-normal';
+                if (prob > 65.0) return 'down-dark';
+            }
+            return 'neutral';
+        }
+
         fetch('heatmap_data.json')
             .then(res => res.json())
             .then(data => {
@@ -60,8 +115,11 @@
                     
                     const formatCell = (d) => {
                         if (!d || d.samples === 0) return '-';
-                        const cls = d.direction === 'UP' ? 'badge-up' : 'badge-down';
-                        return `<span class="badge ${cls}">${d.direction} ${d.probability}%</span> <small style="color:#64748b">(${d.samples}s)</small>`;
+                        const badgeClass = getBadgeClass(d.direction, d.probability);
+                        return `
+                            <span class="badge ${badgeClass}">${d.direction} ${d.probability}%</span> 
+                            <br><small style="color:#64748b; font-size: 11px;">(${d.samples}s)</small>
+                        `;
                     };
 
                     row.innerHTML = `
@@ -74,7 +132,9 @@
                 }
             })
             .catch(err => {
-                document.getElementById('heatmapBody').innerHTML = `<tr><td colspan="4" style="color:#f87171">Gagal memuat data. Pastikan Actions sudah dijalankan.</td></tr>`;
+                document.getElementById('heatmapBody').innerHTML = `
+                    <tr><td colspan="4" style="color:#f87171">Gagal memuat data. Pastikan Actions sudah dijalankan.</td></tr>
+                `;
             });
     </script>
 </body>
