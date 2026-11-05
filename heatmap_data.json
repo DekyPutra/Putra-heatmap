@@ -15546,52 +15546,52 @@
     "15:14": {
       "m1": {
         "direction": "DOWN",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "UP",
-        "probability": 52.1,
-        "samples": 73
+        "probability": 52.7,
+        "samples": 74
       }
     },
     "15:15": {
       "m1": {
         "direction": "UP",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "UP",
-        "probability": 54.8,
-        "samples": 73
+        "probability": 54.1,
+        "samples": 74
       }
     },
     "15:16": {
       "m1": {
         "direction": "DOWN",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
-        "direction": "DOWN",
-        "probability": 51.0,
-        "samples": 49
+        "direction": "UP",
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 53.4,
-        "samples": 73
+        "probability": 52.7,
+        "samples": 74
       }
     },
     "15:17": {
