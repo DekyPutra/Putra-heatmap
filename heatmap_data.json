@@ -1,0 +1,6897 @@
+{
+  "00:00": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "00:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:02": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:03": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:05": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:11": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:12": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:13": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:15": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:17": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:19": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:20": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:21": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:22": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:23": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:24": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:25": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:26": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:31": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:32": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "00:33": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:35": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:36": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:39": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "00:40": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:41": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:42": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:43": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:49": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:53": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:55": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "00:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:58": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "00:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:01": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:03": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:04": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:05": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:06": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:08": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:11": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:12": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:15": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:17": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:19": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:20": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:21": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:22": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:23": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "01:24": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:27": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:28": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:29": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:32": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:33": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:34": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:36": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:37": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:39": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:40": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:41": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:42": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:43": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "01:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:45": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:46": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:47": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "01:48": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:49": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "01:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:53": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:57": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "01:59": {
+    "direction": "DOWN",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:02": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:05": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:06": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:12": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:13": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:14": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:17": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:19": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:20": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:21": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:22": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:23": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:24": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:26": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:30": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:31": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:32": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:35": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:40": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:41": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:42": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:44": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:48": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:49": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:50": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:53": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:54": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "02:55": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "02:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:57": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "02:59": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:01": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:03": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:05": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:06": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:08": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:11": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:12": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:15": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:17": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "03:18": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:19": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:20": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:21": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:22": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:23": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:24": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:25": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:26": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:27": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:29": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:30": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:32": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "03:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:34": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:36": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:37": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:40": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:41": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "03:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:44": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:45": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "03:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:47": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:49": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:50": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:51": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:53": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:54": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "03:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "03:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:02": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:03": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:05": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:08": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:09": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:11": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:12": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:14": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:15": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:16": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:17": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:19": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:20": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:21": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:22": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:24": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:26": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:27": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:30": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:32": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:33": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:34": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:36": {
+    "direction": "DOWN",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:37": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:39": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:40": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:41": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:43": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:49": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "04:50": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:51": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:53": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:54": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:55": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:56": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "04:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "04:59": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "06:00": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "06:01": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "06:02": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 2
+  },
+  "06:03": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "06:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "06:05": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "06:06": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "06:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "06:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "06:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "06:10": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:11": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "06:12": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:13": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:14": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:15": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:16": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:17": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:18": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:19": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:20": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:21": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:22": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:23": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:24": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:25": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:26": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:27": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:28": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:29": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:30": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "06:31": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:32": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:33": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:34": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:35": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:36": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:37": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:38": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:39": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:40": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:41": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:42": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:43": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:44": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:45": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:46": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:47": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:48": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "06:49": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:50": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:51": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:52": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "06:53": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:54": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:55": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:56": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:57": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "06:58": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "06:59": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:00": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:01": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:02": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:03": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:04": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:05": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:06": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:07": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:08": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:09": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:10": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:11": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:12": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:13": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:14": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:16": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:17": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:18": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:19": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:20": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:21": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:22": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:23": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:24": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:25": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:26": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:27": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:28": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:29": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:30": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:31": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:32": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:33": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:34": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:35": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:36": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:37": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:38": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:39": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:40": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:41": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:42": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:43": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:44": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:45": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:46": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:47": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:48": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:49": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:50": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "07:51": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:52": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:53": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:54": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:55": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:56": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:57": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "07:58": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "07:59": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:00": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:01": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:02": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:03": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:04": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:05": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:06": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:07": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:08": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:09": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:10": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:11": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:12": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:13": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:14": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:16": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:17": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:18": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:19": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:20": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:21": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:22": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:23": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:24": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:25": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:26": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:27": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:28": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:29": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:30": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:31": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:32": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:33": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:34": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:35": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:36": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:37": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:38": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:39": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "08:40": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:41": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:42": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:43": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:44": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:45": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:46": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:47": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:48": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:49": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:50": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:51": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:52": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "08:53": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:54": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:55": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:56": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:57": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:58": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "08:59": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:00": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:01": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:02": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:03": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:04": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:05": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:06": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:07": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:08": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:09": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:10": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:11": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:12": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:13": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:14": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:16": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:17": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:18": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:19": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:20": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:21": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:22": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:23": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:24": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:25": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:26": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:27": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:28": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:29": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:30": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:31": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:32": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:33": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:34": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:35": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:36": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:37": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:38": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:39": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "09:40": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:41": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:42": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:43": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:44": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:45": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:46": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:47": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:48": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "09:49": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:50": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:51": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "09:52": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:53": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:54": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "09:55": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:56": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:57": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "09:58": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "09:59": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:00": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:01": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:02": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:03": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:04": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:05": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:06": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "10:07": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:08": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:09": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "10:10": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:11": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:12": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:13": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:14": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:15": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:16": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:17": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "10:18": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:19": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:20": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:21": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:22": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:23": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:24": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:25": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:26": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:27": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:28": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:29": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:30": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:31": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:32": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:33": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:34": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:35": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:36": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:37": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:38": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:39": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:40": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:41": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:42": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:43": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:44": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:45": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:46": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:47": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:48": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:49": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:50": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:51": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "10:52": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:53": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "10:54": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:55": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:56": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "10:57": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "10:58": {
+    "direction": "UP",
+    "probability": 25.0,
+    "samples": 4
+  },
+  "10:59": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:00": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:01": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:02": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:03": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:04": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:05": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:06": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:07": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:08": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:09": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:10": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:11": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:12": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:13": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "11:14": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:16": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:17": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:18": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:19": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:20": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:21": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:22": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:23": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:24": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:25": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:26": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:27": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:28": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:29": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:30": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:31": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "11:32": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:33": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:34": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:35": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:36": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:37": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:38": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:39": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:40": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:41": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:42": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "11:43": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:44": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:45": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:46": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:47": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:48": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:49": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:50": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:51": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:52": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "11:53": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:54": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:55": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "11:56": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:57": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "11:58": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:00": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:01": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:02": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:03": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:04": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:05": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:06": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:07": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:08": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:09": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:10": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:11": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:12": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:13": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:14": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:15": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:16": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:17": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:18": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:19": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:20": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:21": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:22": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "12:23": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:24": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "12:25": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "12:26": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:27": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:28": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:29": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:30": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:31": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:32": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "12:33": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:34": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:35": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:36": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:37": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:38": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:39": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:40": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:41": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:42": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:43": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:44": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:45": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:46": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:47": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:48": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:49": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:50": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:51": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:52": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:53": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:54": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:55": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:56": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:57": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "12:58": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "12:59": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:00": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:01": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:02": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:03": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:04": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:05": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:06": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:07": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:08": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:09": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:10": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:11": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:12": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:13": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:14": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:16": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:17": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:18": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:19": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:20": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:21": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:22": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:23": {
+    "direction": "DOWN",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:24": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:25": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:26": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:27": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:28": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:29": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 4
+  },
+  "13:30": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:31": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:32": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:33": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:34": {
+    "direction": "UP",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:35": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 4
+  },
+  "13:36": {
+    "direction": "DOWN",
+    "probability": 75.0,
+    "samples": 4
+  },
+  "13:37": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:40": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:41": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:44": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:49": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "13:50": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:52": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "13:53": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:54": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:57": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:58": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "13:59": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:00": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:01": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:02": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:03": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:05": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:06": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:08": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:09": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:10": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:11": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:12": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:17": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:18": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:19": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:20": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:21": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "14:22": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:23": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:24": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:28": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:29": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:30": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:31": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:32": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:36": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:37": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:39": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:40": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:41": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "14:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:43": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:44": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:49": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:50": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:51": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "14:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:53": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:57": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "14:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "14:59": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:02": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:04": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:05": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:12": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:14": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:15": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:16": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:17": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:20": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:21": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:22": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "15:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:24": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:25": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:26": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:28": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:30": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:32": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:33": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:37": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:38": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:39": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:40": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:41": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:46": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:47": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "15:48": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:49": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:52": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:53": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:55": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:57": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "15:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "15:59": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "16:00": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:03": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "16:04": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:05": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:08": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:12": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:16": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:17": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:20": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:21": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:22": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:23": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:24": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:29": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:30": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:32": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "16:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:35": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:37": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "16:38": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:39": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:40": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:41": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:42": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:43": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:47": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:49": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:50": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:53": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "16:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:55": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "16:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:58": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "16:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:00": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:01": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:03": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:04": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:05": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:06": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:07": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:08": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:11": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:12": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:13": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "17:14": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "17:15": {
+    "direction": "UP",
+    "probability": 50.0,
+    "samples": 2
+  },
+  "17:16": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "17:17": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 2
+  },
+  "17:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:20": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:21": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:22": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:24": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:28": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:29": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:32": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:36": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:37": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:40": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:41": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:42": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:43": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:44": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:47": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:48": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:49": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:50": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:51": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:53": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:55": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "17:57": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "17:58": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "17:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:00": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:01": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "18:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:03": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:04": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:05": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:06": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:08": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:09": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:11": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:12": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "18:13": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:14": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:17": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:18": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:20": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:21": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:22": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:23": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:24": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:28": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:29": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:32": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:33": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:34": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:35": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:36": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:40": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:41": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:42": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:44": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:45": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:49": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:51": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:52": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:53": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:54": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "18:58": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "18:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:05": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:06": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:07": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:08": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:12": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:13": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:14": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:16": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:17": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:18": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:19": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:20": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:21": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:22": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:23": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:24": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:26": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:27": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:28": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:29": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:30": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:32": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:35": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:39": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:40": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:41": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:43": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:47": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:49": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:50": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:51": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "19:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:53": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:54": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "19:55": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "19:59": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:02": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:04": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:05": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:06": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:10": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:12": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:13": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:14": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:15": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:17": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:19": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:20": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:21": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:22": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:24": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:25": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:27": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:28": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:29": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:32": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:33": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:34": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:36": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:38": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:39": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:40": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:41": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:42": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:43": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:44": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:46": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:47": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:48": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:49": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:50": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:51": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:53": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "20:54": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "20:59": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:00": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:01": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:02": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:04": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:05": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:07": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:08": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:10": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:11": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:12": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:13": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:14": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:15": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:16": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "21:17": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:20": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:21": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:22": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:24": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:25": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:27": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:28": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:30": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "21:31": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:32": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:33": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:34": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:38": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:40": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:41": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:43": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:45": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:48": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:49": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:52": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:53": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:54": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "21:55": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:58": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "21:59": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:00": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:01": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:03": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "22:04": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:05": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:06": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:07": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:08": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:09": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:10": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:12": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:13": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:14": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:15": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:16": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:17": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:18": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:20": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:21": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:22": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:23": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:24": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:26": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:27": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:28": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:29": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:30": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:31": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:32": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:33": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:34": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:35": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:36": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:37": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:38": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:39": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:40": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:41": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:42": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:45": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:46": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:48": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:49": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "22:50": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:51": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:53": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "22:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:55": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:56": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:57": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:58": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "22:59": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:00": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:01": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:02": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:03": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:04": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:05": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:06": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:07": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:08": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:09": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:10": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:11": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:12": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:13": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:14": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:15": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:16": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:17": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:18": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:19": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:20": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:21": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "23:22": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:23": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:24": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:25": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:26": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:27": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:28": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "23:29": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:30": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:31": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:32": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:33": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:34": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:35": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:36": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:37": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:38": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:39": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:40": {
+    "direction": "DOWN",
+    "probability": 100.0,
+    "samples": 3
+  },
+  "23:41": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:42": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:43": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:44": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:45": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:46": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:47": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:48": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "23:49": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:50": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:51": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:52": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:53": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:54": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:55": {
+    "direction": "UP",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:56": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:57": {
+    "direction": "DOWN",
+    "probability": 66.7,
+    "samples": 3
+  },
+  "23:58": {
+    "direction": "UP",
+    "probability": 33.3,
+    "samples": 3
+  },
+  "23:59": {
+    "direction": "UP",
+    "probability": 100.0,
+    "samples": 3
+  }
+}
