@@ -15597,171 +15597,171 @@
     "15:17": {
       "m1": {
         "direction": "UP",
-        "probability": 62.5,
-        "samples": 24
+        "probability": 64.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
-        "direction": "DOWN",
-        "probability": 50.7,
-        "samples": 73
+        "direction": "UP",
+        "probability": 50.0,
+        "samples": 74
       }
     },
     "15:18": {
       "m1": {
         "direction": "UP",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 53.4,
-        "samples": 73
+        "probability": 54.1,
+        "samples": 74
       }
     },
     "15:19": {
       "m1": {
         "direction": "DOWN",
-        "probability": 66.7,
-        "samples": 24
+        "probability": 64.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "UP",
-        "probability": 50.7,
-        "samples": 73
+        "probability": 51.4,
+        "samples": 74
       }
     },
     "15:20": {
       "m1": {
         "direction": "DOWN",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 67.3,
-        "samples": 49
+        "probability": 66.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 61.6,
-        "samples": 73
+        "probability": 60.8,
+        "samples": 74
       }
     },
     "15:21": {
       "m1": {
         "direction": "DOWN",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 50.7,
-        "samples": 73
+        "probability": 51.4,
+        "samples": 74
       }
     },
     "15:22": {
       "m1": {
-        "direction": "UP",
-        "probability": 50.0,
-        "samples": 24
+        "direction": "DOWN",
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 50.7,
-        "samples": 73
+        "probability": 51.4,
+        "samples": 74
       }
     },
     "15:23": {
       "m1": {
-        "direction": "UP",
-        "probability": 50.0,
-        "samples": 24
+        "direction": "DOWN",
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 57.5,
-        "samples": 73
+        "probability": 58.1,
+        "samples": 74
       }
     },
     "15:24": {
       "m1": {
         "direction": "UP",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 59.2,
-        "samples": 49
+        "probability": 60.0,
+        "samples": 50
       },
       "all": {
         "direction": "UP",
-        "probability": 56.2,
-        "samples": 73
+        "probability": 56.8,
+        "samples": 74
       }
     },
     "15:25": {
       "m1": {
         "direction": "DOWN",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "DOWN",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "DOWN",
-        "probability": 56.2,
-        "samples": 73
+        "probability": 56.8,
+        "samples": 74
       }
     },
     "15:26": {
       "m1": {
         "direction": "UP",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "UP",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "UP",
-        "probability": 54.8,
-        "samples": 73
+        "probability": 55.4,
+        "samples": 74
       }
     },
     "15:27": {
