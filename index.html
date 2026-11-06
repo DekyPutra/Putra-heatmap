@@ -43,26 +43,26 @@
             display: inline-block;
         }
 
-        /* 1. 50% - 55.9%: Netral (Abu-abu / Putih Pucat) */
+        /* 1. 50% - 55.9%: Netral (Abu-abu) */
         .neutral { background-color: #334155; color: #cbd5e1; }
 
         /* 2. 56% - 60.9%: Terang / Muda */
-        .up-light { background-color: #14532d; color: #86efac; border: 1px solid #22c55e; }
-        .down-light { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #ef4444; }
+        .buy-light { background-color: #14532d; color: #86efac; border: 1px solid #22c55e; }
+        .sell-light { background-color: #7f1d1d; color: #fca5a5; border: 1px solid #ef4444; }
 
         /* 3. 61% - 65%: Normal */
-        .up-normal { background-color: #166534; color: #ffffff; }
-        .down-normal { background-color: #991b1b; color: #ffffff; }
+        .buy-normal { background-color: #166534; color: #ffffff; }
+        .sell-normal { background-color: #991b1b; color: #ffffff; }
 
         /* 4. > 65%: Pekat / Bold (High Conviction) */
-        .up-dark { background-color: #22c55e; color: #052e16; font-weight: 800; box-shadow: 0 0 8px #22c55e88; }
-        .down-dark { background-color: #ef4444; color: #450a0a; font-weight: 800; box-shadow: 0 0 8px #ef444488; }
+        .buy-dark { background-color: #22c55e; color: #052e16; font-weight: 800; box-shadow: 0 0 8px #22c55e88; }
+        .sell-dark { background-color: #ef4444; color: #450a0a; font-weight: 800; box-shadow: 0 0 8px #ef444488; }
     </style>
 </head>
 <body>
 
     <h1>🔥 Chrono Heatmap (XAUUSD)</h1>
-    <p class="subtitle">Analisis Probabilitas Intraday Seasonality Multi-Timeframe</p>
+    <p class="subtitle">Win-Rate Simulation (TP 50 Pips / SL 50 Pips - 15m Window)</p>
 
     <div class="info-card" id="infoCard">Memuat data...</div>
 
@@ -81,18 +81,19 @@
     </table>
 
     <script>
-        // Fungsi menentukan class warna berdasarkan persen & arah
+        // Fungsi menentukan warna berdasarkan nilai persen & arah BUY/SELL
         function getBadgeClass(direction, prob) {
             if (prob <= 55.9) return 'neutral';
 
-            if (direction === 'UP') {
-                if (prob >= 56.0 && prob <= 60.9) return 'up-light';
-                if (prob >= 61.0 && prob <= 65.0) return 'up-normal';
-                if (prob > 65.0) return 'up-dark';
-            } else if (direction === 'DOWN') {
-                if (prob >= 56.0 && prob <= 60.9) return 'down-light';
-                if (prob >= 61.0 && prob <= 65.0) return 'down-normal';
-                if (prob > 65.0) return 'down-dark';
+            const dir = String(direction).toUpperCase();
+            if (dir === 'BUY' || dir === 'UP') {
+                if (prob >= 56.0 && prob <= 60.9) return 'buy-light';
+                if (prob >= 61.0 && prob <= 65.0) return 'buy-normal';
+                if (prob > 65.0) return 'buy-dark';
+            } else if (dir === 'SELL' || dir === 'DOWN') {
+                if (prob >= 56.0 && prob <= 60.9) return 'sell-light';
+                if (prob >= 61.0 && prob <= 65.0) return 'sell-normal';
+                if (prob > 65.0) return 'sell-dark';
             }
             return 'neutral';
         }
@@ -133,7 +134,7 @@
             })
             .catch(err => {
                 document.getElementById('heatmapBody').innerHTML = `
-                    <tr><td colspan="4" style="color:#f87171">Gagal memuat data. Pastikan Actions sudah dijalankan.</td></tr>
+                    <tr><td colspan="4" style="color:#f87171">Gagal memuat data JSON.</td></tr>
                 `;
             });
     </script>
