@@ -4,10 +4,14 @@ import pandas as pd
 import yfinance as yf
 from datetime import datetime
 
-SYMBOL = "GC=F"  # Ticker Yahoo Finance (Gold/XAUUSD)
+SYMBOL = "GC=F"  # Gold / XAUUSD Futures
 MAX_DAYS_HISTORY = 1825  # Simpan hingga 5 tahun
 OUTPUT_JSON = "heatmap_data.json"
 DATA_STORE_CSV = "historical_m1_store.csv"
+
+# Parameter Trading (Bisa disesuaikan)
+TARGET_PIPS = 0.50  # 50 pips / $0.50 pada XAUUSD (misal Entry 2700.00 -> TP Buy 2700.50, SL Buy 2699.50)
+HOLDING_WINDOW_MINUTES = 15  # Batas maksimal holding time (15 candle M1 ke depan)
 
 def load_and_convert_mt5_csv(csv_path):
     """Membaca file CSV hasil export dari MT5"""
@@ -18,15 +22,22 @@ def load_and_convert_mt5_csv(csv_path):
                 '<DATE>': 'DateStr',
                 '<TIME>': 'TimeStr',
                 '<OPEN>': 'Open',
+                '<HIGH>': 'High',
+                '<LOW>': 'Low',
                 '<CLOSE>': 'Close'
             })
             df['DateStr'] = df['DateStr'].astype(str).str.replace('.', '-', regex=False)
             df['TimeStr'] = df['TimeStr'].astype(str).str.slice(0, 5)
-            df['ChangePips'] = df['Close'] - df['Open']
-            return df[['DateStr', 'TimeStr', 'Open', 'Close', 'ChangePips']]
+            return df[['DateStr', 'TimeStr', 'Open', 'High', 'Low', 'Close']]
     except Exception:
         pass
-    return pd.read_csv(csv_path)
+    
+    df_std = pd.read_csv(csv_path)
+    # Jika CSV standar belum punya High/Low, buat perkiraan dari Open/Close
+    if 'High' not in df_std.columns:
+        df_std['High'] = df_std[['Open', 'Close']].max(axis=1)
+        df_std['Low'] = df_std[['Open', 'Close']].min(axis=1)
+    return df_std
 
 def get_yesterday_m1_data():
     """Tarik data candle 1m terbaru dari Yahoo Finance"""
@@ -39,8 +50,7 @@ def get_yesterday_m1_data():
     df['Datetime'] = pd.to_datetime(df['Datetime']).dt.tz_convert('Asia/Jakarta')
     df['TimeStr'] = df['Datetime'].dt.strftime('%H:%M')
     df['DateStr'] = df['Datetime'].dt.strftime('%Y-%m-%d')
-    df['ChangePips'] = (df['Close'] - df['Open'])
-    return df[['DateStr', 'TimeStr', 'Open', 'Close', 'ChangePips']]
+    return df[['DateStr', 'TimeStr', 'Open', 'High', 'Low', 'Close']]
 
 def update_fifo_database(new_df):
     if os.path.exists(DATA_STORE_CSV):
@@ -58,45 +68,90 @@ def update_fifo_database(new_df):
     combined_df.to_csv(DATA_STORE_CSV, index=False)
     return combined_df
 
-def calc_stats_for_subset(df_subset):
-    """Fungsi pembantu menghitung winrate per jam/menit"""
+def simulate_tp_sl_outcomes(df_subset):
+    """Simulasi testing pergerakan 15 candle ke depan dengan TP/SL 50 pips"""
+    df_sorted = df_subset.sort_values(by=['DateStr', 'TimeStr']).reset_index(drop=True)
     stats = {}
-    grouped = df_subset.groupby('TimeStr')
-    for time_str, group in grouped:
-        total = len(group)
-        if total == 0:
+    
+    # Kelompokkan baris berdasarkan waktu (HH:MM)
+    time_indices = df_sorted.groupby('TimeStr').indices
+
+    for time_str, idx_list in time_indices.items():
+        total_samples = 0
+        buy_wins = 0
+        sell_wins = 0
+
+        for idx in idx_list:
+            # Ambil jendela 15 candle M1 ke depan untuk simulasi holding
+            future_candles = df_sorted.iloc[idx : idx + HOLDING_WINDOW_MINUTES]
+            if len(future_candles) < 2:
+                continue
+            
+            entry_price = future_candles.iloc[0]['Open']
+            tp_buy = entry_price + TARGET_PIPS
+            sl_buy = entry_price - TARGET_PIPS
+            
+            tp_sell = entry_price - TARGET_PIPS
+            sl_sell = entry_price + TARGET_PIPS
+
+            # Evaluasi BUY
+            buy_hit_tp = False
+            for _, row in future_candles.iterrows():
+                if row['Low'] <= sl_buy:
+                    break
+                if row['High'] >= tp_buy:
+                    buy_hit_tp = True
+                    break
+            
+            # Evaluasi SELL
+            sell_hit_tp = False
+            for _, row in future_candles.iterrows():
+                if row['High'] >= sl_sell:
+                    break
+                if row['Low'] <= tp_sell:
+                    sell_hit_tp = True
+                    break
+
+            total_samples += 1
+            if buy_hit_tp:
+                buy_wins += 1
+            if sell_hit_tp:
+                sell_wins += 1
+
+        if total_samples == 0:
             continue
-        up_count = (group['ChangePips'] > 0).sum()
-        down_count = (group['ChangePips'] < 0).sum()
-        
-        up_prob = round((up_count / total) * 100, 1)
-        down_prob = round((down_count / total) * 100, 1)
-        dominant = "UP" if up_prob >= down_prob else "DOWN"
-        prob_val = up_prob if dominant == "UP" else down_prob
-        
+
+        buy_prob = round((buy_wins / total_samples) * 100, 1)
+        sell_prob = round((sell_wins / total_samples) * 100, 1)
+
+        dominant = "BUY" if buy_prob >= sell_prob else "SELL"
+        prob_val = buy_prob if dominant == "BUY" else sell_prob
+
         stats[time_str] = {
             "direction": dominant,
             "probability": prob_val,
-            "samples": total
+            "samples": total_samples
         }
+        
     return stats
 
 def calculate_multi_timeframe_heatmap(df):
     unique_dates = sorted(df['DateStr'].unique())
     total_days = len(unique_dates)
     
-    # Ambil filter 30 hari & 60 hari terakhir
     dates_1m = unique_dates[-30:] if total_days >= 30 else unique_dates
     dates_2m = unique_dates[-60:] if total_days >= 60 else unique_dates
     
     df_1m = df[df['DateStr'].isin(dates_1m)]
     df_2m = df[df['DateStr'].isin(dates_2m)]
     
-    stats_1m = calc_stats_for_subset(df_1m)
-    stats_2m = calc_stats_for_subset(df_2m)
-    stats_all = calc_stats_for_subset(df)
+    print("Menghitung simulasi TP/SL 50 pips untuk 1 Bulan...")
+    stats_1m = simulate_tp_sl_outcomes(df_1m)
+    print("Menghitung simulasi TP/SL 50 pips untuk 2 Bulan...")
+    stats_2m = simulate_tp_sl_outcomes(df_2m)
+    print("Menghitung simulasi TP/SL 50 pips untuk Seluruh Data...")
+    stats_all = simulate_tp_sl_outcomes(df)
     
-    # Gabungkan semua menit yang ada
     all_times = sorted(list(set(df['TimeStr'].unique())))
     
     final_output = {
