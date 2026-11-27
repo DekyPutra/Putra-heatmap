@@ -11296,919 +11296,919 @@
     "11:04": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:05": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
-        "direction": "BUY",
-        "probability": 46.9,
-        "samples": 49
+        "direction": "SELL",
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 52.3,
+        "samples": 88
       }
     },
     "11:06": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 56.3,
-        "samples": 87
+        "probability": 55.7,
+        "samples": 88
       }
     },
     "11:07": {
       "m1": {
-        "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "direction": "BUY",
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 54.0,
-        "samples": 87
+        "probability": 54.5,
+        "samples": 88
       }
     },
     "11:08": {
       "m1": {
-        "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "direction": "BUY",
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 54.0,
-        "samples": 87
+        "probability": 54.5,
+        "samples": 88
       }
     },
     "11:09": {
       "m1": {
         "direction": "BUY",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 59.2,
-        "samples": 49
+        "probability": 60.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 52.9,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:10": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 51.1,
+        "samples": 88
       }
     },
     "11:11": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 51.1,
+        "samples": 88
       }
     },
     "11:12": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 57.5,
-        "samples": 87
+        "probability": 58.0,
+        "samples": 88
       }
     },
     "11:13": {
       "m1": {
         "direction": "BUY",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 52.3,
+        "samples": 88
       }
     },
     "11:14": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 57.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 60.9,
-        "samples": 87
+        "probability": 60.2,
+        "samples": 88
       }
     },
     "11:15": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 51.1,
+        "samples": 88
       }
     },
     "11:16": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 61.2,
-        "samples": 49
+        "probability": 62.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 59.8,
-        "samples": 87
+        "probability": 60.2,
+        "samples": 88
       }
     },
     "11:17": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:18": {
       "m1": {
         "direction": "BUY",
-        "probability": 62.5,
-        "samples": 24
+        "probability": 64.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 56.3,
-        "samples": 87
+        "probability": 56.8,
+        "samples": 88
       }
     },
     "11:19": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 61.2,
-        "samples": 49
+        "probability": 60.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 59.8,
-        "samples": 87
+        "probability": 59.1,
+        "samples": 88
       }
     },
     "11:20": {
       "m1": {
-        "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "direction": "BUY",
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:21": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 57.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:22": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:23": {
       "m1": {
         "direction": "BUY",
-        "probability": 62.5,
-        "samples": 24
+        "probability": 64.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 56.3,
-        "samples": 87
+        "probability": 56.8,
+        "samples": 88
       }
     },
     "11:24": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:25": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 54.0,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:26": {
       "m1": {
         "direction": "BUY",
-        "probability": 47.8,
-        "samples": 23
+        "probability": 45.8,
+        "samples": 24
       },
       "m2": {
         "direction": "BUY",
-        "probability": 54.2,
-        "samples": 48
+        "probability": 53.1,
+        "samples": 49
       },
       "all": {
         "direction": "BUY",
-        "probability": 53.5,
-        "samples": 86
+        "probability": 52.9,
+        "samples": 87
       }
     },
     "11:27": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 54.0,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:28": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:29": {
       "m1": {
         "direction": "BUY",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 51.1,
+        "samples": 88
       }
     },
     "11:30": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:31": {
       "m1": {
-        "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "direction": "BUY",
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 46.9,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 52.9,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:32": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 51.1,
+        "samples": 88
       }
     },
     "11:33": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 46.9,
-        "samples": 49
+        "probability": 46.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:34": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 47.1,
-        "samples": 87
+        "probability": 46.6,
+        "samples": 88
       }
     },
     "11:35": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 46.9,
-        "samples": 49
+        "probability": 46.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:36": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:37": {
       "m1": {
         "direction": "BUY",
-        "probability": 62.5,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
-        "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "direction": "SELL",
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
-        "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "direction": "SELL",
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:38": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 55.2,
-        "samples": 87
+        "probability": 54.5,
+        "samples": 88
       }
     },
     "11:39": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 51.7,
-        "samples": 87
+        "probability": 52.3,
+        "samples": 88
       }
     },
     "11:40": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 46.9,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 48.3,
-        "samples": 87
+        "probability": 47.7,
+        "samples": 88
       }
     },
     "11:41": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 52.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 55.1,
-        "samples": 49
+        "probability": 56.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 48.3,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:42": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 52.9,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:43": {
       "m1": {
         "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:44": {
       "m1": {
         "direction": "SELL",
-        "probability": 56.5,
-        "samples": 23
+        "probability": 58.3,
+        "samples": 24
       },
       "m2": {
         "direction": "SELL",
-        "probability": 52.1,
-        "samples": 48
+        "probability": 53.1,
+        "samples": 49
       },
       "all": {
         "direction": "SELL",
-        "probability": 58.1,
-        "samples": 86
+        "probability": 58.6,
+        "samples": 87
       }
     },
     "11:45": {
       "m1": {
         "direction": "BUY",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:46": {
       "m1": {
         "direction": "BUY",
-        "probability": 41.7,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 48.3,
-        "samples": 87
+        "probability": 47.7,
+        "samples": 88
       }
     },
     "11:47": {
       "m1": {
         "direction": "SELL",
-        "probability": 50.0,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 52.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:48": {
       "m1": {
         "direction": "BUY",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 50.6,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:49": {
       "m1": {
         "direction": "BUY",
-        "probability": 41.7,
-        "samples": 24
+        "probability": 40.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 42.9,
-        "samples": 49
+        "probability": 44.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 48.3,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:50": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 53.1,
-        "samples": 49
+        "probability": 54.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 50.0,
+        "samples": 88
       }
     },
     "11:51": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
-        "direction": "BUY",
-        "probability": 46.9,
-        "samples": 49
+        "direction": "SELL",
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 48.3,
-        "samples": 87
+        "probability": 47.7,
+        "samples": 88
       }
     },
     "11:52": {
       "m1": {
         "direction": "SELL",
-        "probability": 58.3,
-        "samples": 24
+        "probability": 60.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 51.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 52.9,
-        "samples": 87
+        "probability": 52.3,
+        "samples": 88
       }
     },
     "11:53": {
       "m1": {
         "direction": "SELL",
-        "probability": 66.7,
-        "samples": 24
+        "probability": 64.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 61.2,
-        "samples": 49
+        "probability": 60.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 57.5,
-        "samples": 87
+        "probability": 56.8,
+        "samples": 88
       }
     },
     "11:54": {
       "m1": {
-        "direction": "BUY",
-        "probability": 45.8,
-        "samples": 24
+        "direction": "SELL",
+        "probability": 48.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 55.2,
-        "samples": 87
+        "probability": 54.5,
+        "samples": 88
       }
     },
     "11:55": {
       "m1": {
-        "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "direction": "BUY",
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "BUY",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 50.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:56": {
       "m1": {
         "direction": "SELL",
-        "probability": 54.2,
-        "samples": 24
+        "probability": 56.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 59.2,
-        "samples": 49
+        "probability": 60.0,
+        "samples": 50
       },
       "all": {
         "direction": "SELL",
-        "probability": 52.9,
-        "samples": 87
+        "probability": 53.4,
+        "samples": 88
       }
     },
     "11:57": {
       "m1": {
         "direction": "SELL",
-        "probability": 45.8,
-        "samples": 24
+        "probability": 44.0,
+        "samples": 25
       },
       "m2": {
         "direction": "SELL",
-        "probability": 49.0,
-        "samples": 49
+        "probability": 48.0,
+        "samples": 50
       },
       "all": {
         "direction": "BUY",
-        "probability": 49.4,
-        "samples": 87
+        "probability": 48.9,
+        "samples": 88
       }
     },
     "11:58": {
